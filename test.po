@@ -1,0 +1,146 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: XCover-CMS 1.0\n"
+"Report-Msgid-Bugs-To: transifex-production@covergenius.com\n"
+"POT-Creation-Date: 2020-05-01 01:24:22+0000\n"
+"PO-Revision-Date: 2020-05-01 01:24:22+0000\n"
+"Last-Translator: transifex-production@covergenius.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "title"
+msgstr "Home"
+
+msgid "body__0__section__0__heading__title"
+msgstr "Luck is Good.<br/>Insurance is Better."
+
+msgid "body__0__section__0__heading__lead_text"
+msgstr ""
+"<p>Don&#x27;t leave it to chance, leave it to the experts. Protect the "
+"things you love with insurance that&#x27;s simple, quick and hassle-"
+"free.</p>"
+
+msgid "body__0__section__1__buttons__buttons__0__text"
+msgstr "MANAGE YOUR POLICY"
+
+msgid "body__0__section__1__buttons__buttons__1__text"
+msgstr "Make a claim"
+
+msgid "body__1__section__0__rich_text"
+msgstr ""
+"<p>Proud <span data-tooltip=\"\" title=\"Testing tooltips here. Lots of "
+"words and stuff! Lots of words and stuff?\">partners of</span></p>"
+
+msgid "body__1__section__1__images__images__0__alt_text"
+msgstr "booking-com"
+
+msgid "body__1__section__1__images__images__1__alt_text"
+msgstr "despegar"
+
+msgid "body__1__section__1__images__images__2__alt_text"
+msgstr "catch"
+
+msgid "body__1__section__1__images__images__3__alt_text"
+msgstr "priceline"
+
+msgid "body__2__section__0__heading__title"
+msgstr "Fast. Affordable. Great."
+
+msgid "body__2__section__0__heading__lead_text"
+msgstr ""
+"<p>XCover protects your purchase from breakage, damage or theft. Don’t think"
+" of it as insurance. It’s like a micro-inheritance for really smart people "
+"with bad luck.</p>"
+
+msgid "body__2__section__1__feature_columns__features__0__title"
+msgstr "Global Cover"
+
+msgid "body__2__section__1__feature_columns__features__0__body"
+msgstr "<p>Protect everything everywhere.</p>"
+
+msgid "body__2__section__1__feature_columns__features__1__title"
+msgstr "Zero Excess"
+
+msgid "body__2__section__1__feature_columns__features__1__body"
+msgstr "<p>Zero worries.</p>"
+
+msgid "body__2__section__1__feature_columns__features__2__title"
+msgstr "Simple Claims"
+
+msgid "body__2__section__1__feature_columns__features__2__body"
+msgstr "<p>24/7 online portal.</p>"
+
+msgid "body__3__section__0__heading__title"
+msgstr "We're winning awards"
+
+msgid "body__3__section__0__heading__lead_text"
+msgstr ""
+"<p>XCover is owned by Cover Genius, the award-winning team recognized as "
+"Australia’s fastest growing company of 2017. Globally, we’re on KPMG’s list "
+"of the Top 100 Emerging Fintechs.</p>"
+
+msgid "body__3__section__1__images__images__0__alt_text"
+msgstr "Deloitte Fast 50 Technology Finalist"
+
+msgid "body__3__section__1__images__images__1__alt_text"
+msgstr "KPMG Fintech100 Leading Global Fintech Innovators"
+
+msgid "body__3__section__1__images__images__2__alt_text"
+msgstr "Ernst & Young Entrepreneur of the Year"
+
+msgid "body__4__section__0__heading__title"
+msgstr "How claims work"
+
+msgid "body__4__section__0__heading__lead_text"
+msgstr ""
+"<p>When life happens, we’re here to help. Think of us like your best friend "
+"who’s never going to ask you to help move a couch.</p>"
+
+msgid "body__4__section__1__feature_columns__features__0__title"
+msgstr "Before you start"
+
+msgid "body__4__section__1__feature_columns__features__0__body"
+msgstr ""
+"<p>Please have supporting documents and a brief description of what happened"
+" ready to go.</p>"
+
+msgid "body__4__section__1__feature_columns__features__1__title"
+msgstr "Submit claim"
+
+msgid "body__4__section__1__feature_columns__features__1__body"
+msgstr ""
+"<p>Simply log in, answer questions about your claim and submit your "
+"documents. We’ll keep you updated as it progresses.</p>"
+
+msgid "body__4__section__1__feature_columns__features__2__title"
+msgstr "Get paid"
+
+msgid "body__4__section__1__feature_columns__features__2__body"
+msgstr "<p>Your payment will typically land in your account in 1-2 days.</p>"
+
+msgid "seo_title"
+msgstr ""
+"XCover | Award-Winning & Global: Product Insurance, Travel Insurance, Auto "
+"Insurance, Shipping Insurance"
+
+msgid "search_description"
+msgstr ""
+"Protect your purchases with easy to understand insurance from the world's "
+"leading insurers. Product Insurance, Travel Insurance, Auto Insurance, "
+"Shipping Insurance, Pet Insurance and more."
+
+msgid "social_title"
+msgstr ""
+"XCover | Award-Winning & Global: Product Insurance, Travel Insurance, Auto "
+"Insurance, Shipping Insurance"
+
+msgid "social_description"
+msgstr ""
+"Protect your purchases with easy to understand insurance from the world's "
+"leading insurers. Product Insurance, Travel Insurance, Auto Insurance and "
+"more."
+
